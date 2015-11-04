@@ -1,0 +1,2 @@
+# nogame
+All games
